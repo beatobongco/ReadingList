@@ -10,10 +10,13 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [MIT's Intro to CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/readings/)
 - [Problem Solving with Algorithms and Data Structures Using Python - Bradley N. Miller](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590280539)
 - [Javascript: The Good Parts - Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+- [Focus: The Hidden Driver of Excellence - Daniel Goleman](https://www.amazon.com/Focus-Hidden-Excellence-Daniel-Goleman-ebook/dp/B00BATG220)
+- [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
 
 - [How To Win Friends And Influence People - Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+- [Talent Code - Daniel Coyle](https://www.amazon.com/Talent-Code-Greatness-Born-Grown-ebook/dp/B0026OR1UK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1480652637&sr=1-1&keywords=talent+code)
 - [Steve Jobs - Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 - [Man's Search for Meaning - Viktor Frankl](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X)
 - [Ego Is The Enemy - Ryan Holiday](https://www.amazon.com/Ego-Enemy-Master-Greatest-Opponent-ebook/dp/B01AWUTMB0/ref=sr_1_1?s=books&ie=UTF8&qid=1480650510&sr=1-1&keywords=ego+is+the+enemy)
