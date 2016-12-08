@@ -30,3 +30,6 @@ Deserves its own category.
 - [Alone on the Wall - Alex Honnold](https://www.amazon.com/Alone-Wall-Alex-Honnold/dp/0393247627)
 - [Performance Rock Climbing - Dale Goddard](https://www.amazon.com/Performance-Rock-Climbing-Dale-Goddard-ebook/dp/B004L62I36/ref=sr_1_1?s=books&ie=UTF8&qid=1480652146&sr=1-1&keywords=performance+rock+climbing)
 - [Self-Coached Climber: The Guide to Movement, Training, Performance - Dan M. Hague](https://www.amazon.com/Self-Coached-Climber-Movement-Training-Performance-ebook/dp/B004BJ1MPS/ref=pd_sim_351_3?_encoding=UTF8&pd_rd_i=B004BJ1MPS&pd_rd_r=A5ND3V538S4KGNDKZ0AX&pd_rd_w=ekJVg&pd_rd_wg=pBhZe&psc=1&refRID=A5ND3V538S4KGNDKZ0AX)
+
+## Articles on things to read
+- http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_source=qzfbarchive
