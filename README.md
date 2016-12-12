@@ -2,6 +2,7 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
+- [The Subtle Art of Not Giving a F*ck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
