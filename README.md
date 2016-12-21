@@ -2,7 +2,6 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- [The Subtle Art of Not Giving a F*ck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
@@ -17,7 +16,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
-
+- [The Subtle Art of Not Giving a F*ck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [How To Win Friends And Influence People - Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Talent Code - Daniel Coyle](https://www.amazon.com/Talent-Code-Greatness-Born-Grown-ebook/dp/B0026OR1UK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1480652637&sr=1-1&keywords=talent+code)
 - [Steve Jobs - Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
