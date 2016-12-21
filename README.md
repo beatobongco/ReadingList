@@ -5,6 +5,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 - [The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing-ebook/dp/B003JH8MHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+
 ## To read list
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Deep Work - Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
