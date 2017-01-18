@@ -4,10 +4,11 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 ## Priority "to read" list
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
-- [The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing-ebook/dp/B003JH8MHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## To read list
-- [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing-ebook/dp/B003JH8MHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
 - [Deep Work - Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [Elon Musk - Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?s=books&ie=UTF8&qid=1480650853&sr=1-1&keywords=elon+musk)
 - [MIT's Intro to CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/readings/)
@@ -34,6 +35,10 @@ Deserves its own category.
 - [Alone on the Wall - Alex Honnold](https://www.amazon.com/Alone-Wall-Alex-Honnold/dp/0393247627)
 - [Performance Rock Climbing - Dale Goddard](https://www.amazon.com/Performance-Rock-Climbing-Dale-Goddard-ebook/dp/B004L62I36/ref=sr_1_1?s=books&ie=UTF8&qid=1480652146&sr=1-1&keywords=performance+rock+climbing)
 - [Self-Coached Climber: The Guide to Movement, Training, Performance - Dan M. Hague](https://www.amazon.com/Self-Coached-Climber-Movement-Training-Performance-ebook/dp/B004BJ1MPS/ref=pd_sim_351_3?_encoding=UTF8&pd_rd_i=B004BJ1MPS&pd_rd_r=A5ND3V538S4KGNDKZ0AX&pd_rd_w=ekJVg&pd_rd_wg=pBhZe&psc=1&refRID=A5ND3V538S4KGNDKZ0AX)
+
+## Lessons to take
+
+- [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Articles on things to read
 - http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_source=qzfbarchive
