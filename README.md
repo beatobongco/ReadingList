@@ -2,7 +2,7 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- (Introduction to Computation and Programming Using Python - John V. Guttag)[https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1484724298&sr=1-1]
+- [Introduction to Computation and Programming Using Python - John V. Guttag](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1484724298&sr=1-1)
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
