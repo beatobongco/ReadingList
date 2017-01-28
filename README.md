@@ -8,6 +8,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 
 ## To read list
 - [The Hitchhiker's Guide to Python - Kenneth Reitz](https://www.amazon.com/Hitchhikers-Guide-Python-Practices-Development/dp/1491933178/ref=as_li_ss_tl?ie=UTF8&qid=1474504817&sr=8-1&keywords=the+hitchhiker%27s+guide+to+python&linkCode=sl1&tag=bookforkind-20&linkId=61f709db08f6c3016ed5390b215938ad)
+- [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing-ebook/dp/B003JH8MHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Algorithms To Live By - Brian Christian and Tom Griffiths](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
