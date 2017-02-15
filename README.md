@@ -7,6 +7,8 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
+- Check out Raymond Smullyan books on logic 
 - [The Hitchhiker's Guide to Python - Kenneth Reitz](https://www.amazon.com/Hitchhikers-Guide-Python-Practices-Development/dp/1491933178/ref=as_li_ss_tl?ie=UTF8&qid=1474504817&sr=8-1&keywords=the+hitchhiker%27s+guide+to+python&linkCode=sl1&tag=bookforkind-20&linkId=61f709db08f6c3016ed5390b215938ad)
 - [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
