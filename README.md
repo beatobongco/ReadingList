@@ -7,6 +7,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [How I Raised Myself from Failure to Success in Selling - Frank Bettger](https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X)
 - [Idiomatic Python - Jeff Knupp](https://jeffknupp.com/writing-idiomatic-python-ebook/)
 - [Eloquent Javascript - Marijn Haverbeke](http://eloquentjavascript.net/)
 - [Introduction to Computation and Programming Using Python - John V. Guttag](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1484724298&sr=1-1)
