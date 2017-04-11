@@ -10,7 +10,6 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 
 ## To read list
 - [How I Raised Myself from Failure to Success in Selling - Frank Bettger](https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X)
-- [Idiomatic Python - Jeff Knupp](https://jeffknupp.com/writing-idiomatic-python-ebook/)
 - [Eloquent Javascript - Marijn Haverbeke](http://eloquentjavascript.net/)
 - [Introduction to Computation and Programming Using Python - John V. Guttag](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1484724298&sr=1-1)
 - [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
@@ -27,6 +26,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
+- [Idiomatic Python - Jeff Knupp](https://jeffknupp.com/writing-idiomatic-python-ebook/)
 - [Elon Musk - Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?s=books&ie=UTF8&qid=1480650853&sr=1-1&keywords=elon+musk)
 - [Algorithms To Live By - Brian Christian and Tom Griffiths](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
