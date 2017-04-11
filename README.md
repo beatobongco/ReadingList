@@ -2,9 +2,10 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- [Elon Musk - Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?s=books&ie=UTF8&qid=1480650853&sr=1-1&keywords=elon+musk)
+- [Grit - Angela Duckworth](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
+- [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
 - [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
-- Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel
+- [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
@@ -26,6 +27,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
+- [Elon Musk - Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?s=books&ie=UTF8&qid=1480650853&sr=1-1&keywords=elon+musk)
 - [Algorithms To Live By - Brian Christian and Tom Griffiths](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [The Subtle Art of Not Giving a F*ck - Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
