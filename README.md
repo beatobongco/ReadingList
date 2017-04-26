@@ -2,7 +2,6 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- [Grit - Angela Duckworth](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 - [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
 - [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
@@ -26,6 +25,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
+- [Grit - Angela Duckworth](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 - [Idiomatic Python - Jeff Knupp](https://jeffknupp.com/writing-idiomatic-python-ebook/)
 - [Elon Musk - Ashlee Vance](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?s=books&ie=UTF8&qid=1480650853&sr=1-1&keywords=elon+musk)
 - [Algorithms To Live By - Brian Christian and Tom Griffiths](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1480560367)
