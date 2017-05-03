@@ -2,15 +2,20 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
 - [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
+- [Zero to One - Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?s=books&ie=UTF8&qid=1493794506&sr=1-1&keywords=peter+thiel+zero+to+one)
+- [Superintelligence: Paths, Dangers, Strategies - Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
+- [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [The Innovators - Walter Isaacson](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_6?s=books&ie=UTF8&qid=1493794596&sr=1-6&keywords=walter+isaacson)
+- [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson-ebook/dp/B000PC0S0K/ref=sr_1_1?s=books&ie=UTF8&qid=1493794581&sr=1-1&keywords=walter+isaacson)
+- [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson-ebook/dp/B000FBJG4U/ref=sr_1_4?s=books&ie=UTF8&qid=1493794581&sr=1-4&keywords=walter+isaacson)
+- [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values - Rober M. Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 - [How I Raised Myself from Failure to Success in Selling - Frank Bettger](https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X)
 - [Eloquent Javascript - Marijn Haverbeke](http://eloquentjavascript.net/)
-- [Introduction to Computation and Programming Using Python - John V. Guttag](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1484724298&sr=1-1)
 - [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 - [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
 - Check out Raymond Smullyan books on logic 
