@@ -11,6 +11,8 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 
 ## To read list
 - [The Innovators - Walter Isaacson](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_6?s=books&ie=UTF8&qid=1493794596&sr=1-6&keywords=walter+isaacson)
+- [Surely You're Joking Mr. Feynman - Richard Feynman](https://www.amazon.com/Surely-You-re-Joking-Mr-Feynman/dp/0553346687/ref=cm_cr_dp_d_rvw_txt?ie=UTF8)
+- [For the Love of Physics - Walter Lewin](https://www.amazon.com/Love-Physics-Rainbow-Journey-Through-ebook/dp/B003UV8TFE/ref=sr_1_1?ie=UTF8&qid=1493822086&sr=8-1&keywords=for+the+love+of+physics+walter+lewin)
 - [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson-ebook/dp/B000PC0S0K/ref=sr_1_1?s=books&ie=UTF8&qid=1493794581&sr=1-1&keywords=walter+isaacson)
 - [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson-ebook/dp/B000FBJG4U/ref=sr_1_4?s=books&ie=UTF8&qid=1493794581&sr=1-4&keywords=walter+isaacson)
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values - Rober M. Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
