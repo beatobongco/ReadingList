@@ -10,6 +10,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
 - [The Innovators - Walter Isaacson](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_6?s=books&ie=UTF8&qid=1493794596&sr=1-6&keywords=walter+isaacson)
 - [Surely You're Joking Mr. Feynman - Richard Feynman](https://www.amazon.com/Surely-You-re-Joking-Mr-Feynman/dp/0553346687/ref=cm_cr_dp_d_rvw_txt?ie=UTF8)
 - [For the Love of Physics - Walter Lewin](https://www.amazon.com/Love-Physics-Rainbow-Journey-Through-ebook/dp/B003UV8TFE/ref=sr_1_1?ie=UTF8&qid=1493822086&sr=8-1&keywords=for+the+love+of+physics+walter+lewin)
