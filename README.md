@@ -2,7 +2,6 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
-- [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Superintelligence: Paths, Dangers, Strategies - Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 - [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com/gp/product/0062273205/ref=s9u_psimh_gw_i7?ie=UTF8&fpl=fresh&pd_rd_i=0062273205&pd_rd_r=H3M4KA7H6SE9JEQZH3H0&pd_rd_w=8K9Ag&pd_rd_wg=aW86y&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=E152DH4TQRV8ZQ9H4C64&pf_rd_t=36701&pf_rd_p=2a4fafb6-9fdc-425a-aee8-c82daa7b18ed&pf_rd_i=desktop)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
@@ -11,6 +10,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B00FOT936Y/ref=sr_1_1?s=books&ie=UTF8&qid=1494940106&sr=1-1&keywords=holacracy)
 - [Sandman - Neil Gaiman](https://www.amazon.com/Sandman-Slipcase-Set-Neil-Gaiman/dp/1401238637)
 - [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
