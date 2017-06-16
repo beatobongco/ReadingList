@@ -10,6 +10,9 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## To read list
+- [Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive - Kevin Horsley](https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ)
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration - Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
+- [Small DATA: The Tiny Clues that Uncover Huge Trends - Martin Lindstrom](https://www.amazon.com/Small-DATA-Clues-Uncover-Trends/dp/1522635181)
 - [The Happiness Hypothesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
 - [Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B00FOT936Y/ref=sr_1_1?s=books&ie=UTF8&qid=1494940106&sr=1-1&keywords=holacracy)
 - [Sandman - Neil Gaiman](https://www.amazon.com/Sandman-Slipcase-Set-Neil-Gaiman/dp/1401238637)
