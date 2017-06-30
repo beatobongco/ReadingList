@@ -67,6 +67,7 @@ Deserves its own category.
 ## Lessons to take
 
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [Neural Networks - Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 
 ## Articles on things to read
 - http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_source=qzfbarchive
