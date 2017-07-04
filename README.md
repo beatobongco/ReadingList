@@ -68,6 +68,7 @@ Deserves its own category.
 
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Neural Networks - Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
+- [MIT OCW - Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
 ## Articles on things to read
 - http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_source=qzfbarchive
