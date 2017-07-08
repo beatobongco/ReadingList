@@ -3,7 +3,6 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 
 ## Priority "to read" list
 - [Superintelligence: Paths, Dangers, Strategies - Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
-- [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com/gp/product/0062273205/ref=s9u_psimh_gw_i7?ie=UTF8&fpl=fresh&pd_rd_i=0062273205&pd_rd_r=H3M4KA7H6SE9JEQZH3H0&pd_rd_w=8K9Ag&pd_rd_wg=aW86y&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=E152DH4TQRV8ZQ9H4C64&pf_rd_t=36701&pf_rd_p=2a4fafb6-9fdc-425a-aee8-c82daa7b18ed&pf_rd_i=desktop)
 - [A Mind for Numbers - Barbara Oakley](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
@@ -39,6 +38,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 
 ## Finished
+- [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com/gp/product/0062273205/ref=s9u_psimh_gw_i7?ie=UTF8&fpl=fresh&pd_rd_i=0062273205&pd_rd_r=H3M4KA7H6SE9JEQZH3H0&pd_rd_w=8K9Ag&pd_rd_wg=aW86y&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=E152DH4TQRV8ZQ9H4C64&pf_rd_t=36701&pf_rd_p=2a4fafb6-9fdc-425a-aee8-c82daa7b18ed&pf_rd_i=desktop)
 - [The Mythical Man-Month - Frederick P. Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - [Zero to One - Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?s=books&ie=UTF8&qid=1493794506&sr=1-1&keywords=peter+thiel+zero+to+one)
 - [Grit - Angela Duckworth](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
