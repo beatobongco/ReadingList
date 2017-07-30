@@ -13,6 +13,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive - Kevin Horsley](https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ)
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration - Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
 - [Small DATA: The Tiny Clues that Uncover Huge Trends - Martin Lindstrom](https://www.amazon.com/Small-DATA-Clues-Uncover-Trends/dp/1522635181)
+- [Make It New: A History of Silicon Valley Design - Barry M. Katz](https://www.amazon.com/Make-New-History-Silicon-Valley/dp/0262029634)
 - [The Happiness Hypothesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
 - [Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B00FOT936Y/ref=sr_1_1?s=books&ie=UTF8&qid=1494940106&sr=1-1&keywords=holacracy)
 - [Sandman - Neil Gaiman](https://www.amazon.com/Sandman-Slipcase-Set-Neil-Gaiman/dp/1401238637)
