@@ -72,6 +72,7 @@ Deserves its own category.
 - [Neural Networks - Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
 - [MIT OCW - Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 - [Data Structures and Algorithms - UC San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Stanford CS20SI](http://web.stanford.edu/class/cs20si/syllabus.html)
 
 ## Articles on things to read
 - http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_source=qzfbarchive
