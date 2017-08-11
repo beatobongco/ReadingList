@@ -5,6 +5,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 - [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 
 ## To read list
 - [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
