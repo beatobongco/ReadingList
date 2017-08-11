@@ -2,10 +2,13 @@
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
 ## Priority "to read" list
+- [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
-- [https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680 - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
 
 ## To read list
+- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
+- [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
@@ -16,9 +19,9 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 - [Small DATA: The Tiny Clues that Uncover Huge Trends - Martin Lindstrom](https://www.amazon.com/Small-DATA-Clues-Uncover-Trends/dp/1522635181)
 - [Make It New: A History of Silicon Valley Design - Barry M. Katz](https://www.amazon.com/Make-New-History-Silicon-Valley/dp/0262029634)
 - [The Happiness Hypothesis - Jonathan Haidt](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020)
+- [Debt - David Graeber](https://www.amazon.com/Debt-Updated-Expanded-First-Years-ebook/dp/B00Q1HZMCW/ref=sr_1_1?s=books&ie=UTF8&qid=1502423495&sr=1-1&keywords=debt)
 - [Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose-ebook/dp/B00FOT936Y/ref=sr_1_1?s=books&ie=UTF8&qid=1494940106&sr=1-1&keywords=holacracy)
 - [Sandman - Neil Gaiman](https://www.amazon.com/Sandman-Slipcase-Set-Neil-Gaiman/dp/1401238637)
-- [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
 - [The Innovators - Walter Isaacson](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_6?s=books&ie=UTF8&qid=1493794596&sr=1-6&keywords=walter+isaacson)
 - [Surely You're Joking Mr. Feynman - Richard Feynman](https://www.amazon.com/Surely-You-re-Joking-Mr-Feynman/dp/0553346687/ref=cm_cr_dp_d_rvw_txt?ie=UTF8)
 - [For the Love of Physics - Walter Lewin](https://www.amazon.com/Love-Physics-Rainbow-Journey-Through-ebook/dp/B003UV8TFE/ref=sr_1_1?ie=UTF8&qid=1493822086&sr=8-1&keywords=for+the+love+of+physics+walter+lewin)
