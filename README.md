@@ -1,6 +1,8 @@
 # My reading list
 A list of self-improvement, tech, design and climbing books I have read or want to read.
 
+I rate some of these books [here](https://beatobongco.com/book-highlights/).
+
 ## Priority "to read" list
 - [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
 - [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
