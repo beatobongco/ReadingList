@@ -10,6 +10,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 
 ## To read list
+- [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 - [Founders at Work - Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
