@@ -4,12 +4,13 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
 - [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 - [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 
 ## To read list
+- [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
 - [Hackers and Painters - Paul Graham](https://smile.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ)
 - [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
