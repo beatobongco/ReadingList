@@ -6,6 +6,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 ## Priority "to read" list
 - [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 - [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [Letters to a Young Poet - Rainier Maria Rilke](https://www.amazon.com/Letters-Young-Rainer-Maria-Rilke/dp/0393310396)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 
