@@ -5,19 +5,16 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
 - [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
-- [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
-- [Letters to a Young Poet - Rainier Maria Rilke](https://www.amazon.com/Letters-Young-Rainer-Maria-Rilke/dp/0393310396)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
+- [Hackers and Painters - Paul Graham](https://smile.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ)
+- [Founders at Work - Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
+- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
 
 ## To read list
-- [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
-- [Hackers and Painters - Paul Graham](https://smile.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ)
 - [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
-- [Founders at Work - Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
-- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
@@ -52,6 +49,9 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## Finished
+- [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
+- [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+- [Letters to a Young Poet - Rainier Maria Rilke](https://www.amazon.com/Letters-Young-Rainer-Maria-Rilke/dp/0393310396)
 - [Shoe Dog - Phil Knight](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44/ref=pd_typ_k_sp_1_14?_encoding=UTF8&psc=1&refRID=0ZKZNS4NJTK4F6ZS86XV)
 - [A Mind for Numbers - Barbara Oakley](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)
 - [The Hard Thing About Hard Things - Ben Horowitz](https://www.amazon.com/gp/product/0062273205/ref=s9u_psimh_gw_i7?ie=UTF8&fpl=fresh&pd_rd_i=0062273205&pd_rd_r=H3M4KA7H6SE9JEQZH3H0&pd_rd_w=8K9Ag&pd_rd_wg=aW86y&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=E152DH4TQRV8ZQ9H4C64&pf_rd_t=36701&pf_rd_p=2a4fafb6-9fdc-425a-aee8-c82daa7b18ed&pf_rd_i=desktop)
