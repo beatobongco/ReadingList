@@ -5,6 +5,9 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
 - [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+- [Proust and the Squid - Maryanne Wolf](https://www.amazon.com/Proust-Squid-Story-Science-Reading/dp/0060933844)
+- [Let My People Go Surfing - Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
+- [Just Kids - Patti Smith](https://www.amazon.com/Just-Kids-Patti-Smith/dp/0060936223)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 - [Hackers and Painters - Paul Graham](https://smile.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ)
