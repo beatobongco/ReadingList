@@ -4,15 +4,13 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+- [The Power of Habit - Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) 
 - [Proust and the Squid - Maryanne Wolf](https://www.amazon.com/Proust-Squid-Story-Science-Reading/dp/0060933844)
-- [Let My People Go Surfing - Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
 - [Just Kids - Patti Smith](https://www.amazon.com/Just-Kids-Patti-Smith/dp/0060936223)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 - [Hackers and Painters - Paul Graham](https://smile.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ)
 - [Founders at Work - Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
-- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
 
 ## To read list
 - [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
@@ -52,6 +50,9 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## Finished
+- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
+- [Let My People Go Surfing - Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
+- [You Don't Know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 - [Chaos Monkeys - Antonio Martinez](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/ref=sr_1_1?s=books&ie=UTF8&qid=1502423421&sr=1-1&keywords=chaos+monkeys)
 - [Antifragile: Things That Gain from Disorder - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
 - [Letters to a Young Poet - Rainier Maria Rilke](https://www.amazon.com/Letters-Young-Rainer-Maria-Rilke/dp/0393310396)
