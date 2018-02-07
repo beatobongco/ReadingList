@@ -14,6 +14,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 
 ## To read list
+- [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
 - [Fearless Change - Manns and Rising](https://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas-ebook/dp/B0054RGYNQ)
 - [Artificial Intelligence: A Modern Approach - Peter Norvig and Stuart Russel](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?s=books&ie=UTF8&qid=1491897344&sr=1-1&keywords=artificial+intelligence+a+modern+approach)
@@ -49,7 +50,6 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## Finished
-- [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
 - [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
 - [Let My People Go Surfing - Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
