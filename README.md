@@ -4,6 +4,7 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
+- [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 - [The Power of Habit - Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) 
 - [Proust and the Squid - Maryanne Wolf](https://www.amazon.com/Proust-Squid-Story-Science-Reading/dp/0060933844)
 - [Just Kids - Patti Smith](https://www.amazon.com/Just-Kids-Patti-Smith/dp/0060936223)
