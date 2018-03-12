@@ -15,6 +15,8 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 
 ## To read list
+- [Competing Against Luck - Clayton Christensen](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
+- [Letters to a Young Scientist - Edward O. Wilson](https://www.amazon.com/Letters-Young-Scientist-Edward-Wilson/dp/0871403854/ref=as_li_ss_tl?ie=UTF8&qid=1520129168&sr=8-1&keywords=letters+to+a+young+scientist&linkCode=sl1&tag=mmeditations-20&linkId=984452b3a353f30f8f74e6f3a73c0037)
 - [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
 - [Fearless Change - Manns and Rising](https://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas-ebook/dp/B0054RGYNQ)
