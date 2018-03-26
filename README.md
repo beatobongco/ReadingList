@@ -4,7 +4,6 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [Lean Startup - Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [Competing Against Luck - Clayton Christensen](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 - [Remote: Office Not Required - Jason Fried](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
 - [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
@@ -55,6 +54,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## Finished
+- [Lean Startup - Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [Daytripper - Gabriel Ba, Fabio Moon](https://www.amazon.com/Daytripper-Gabriel-Ba/dp/1401229697)
 - [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_1?s=books&ie=UTF8&qid=1502423457&sr=1-1&keywords=managers+path)
 - [Let My People Go Surfing - Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
