@@ -24,7 +24,6 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Design of Everyday Things - Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 - [Selected Stories of Anton Chekhov](https://www.amazon.com/Selected-Stories-Anton-Chekov-Chekhov-ebook/dp/B0030CMK6M)
 - [Superintelligence: Paths, Dangers, Strategies - Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
-- [A Mind at Play: How Claude Shannon Invented the Information Age - Jimmy Soni](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
 - [Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive - Kevin Horsley](https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ)
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration - Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
 - [Small DATA: The Tiny Clues that Uncover Huge Trends - Martin Lindstrom](https://www.amazon.com/Small-DATA-Clues-Uncover-Trends/dp/1522635181)
@@ -53,6 +52,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
 
 ## Finished
+- [A Mind at Play: How Claude Shannon Invented the Information Age - Jimmy Soni](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
 - [Competing Against Luck - Clayton Christensen](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 - [Remote: Office Not Required - Jason Fried](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
 - [Lean Startup - Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
