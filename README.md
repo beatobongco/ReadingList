@@ -4,9 +4,9 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [The Language Instinct - Steven Pinker](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 - [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
+- [Essentialism - Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 - [The Power of Habit - Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) 
 - [Proust and the Squid - Maryanne Wolf](https://www.amazon.com/Proust-Squid-Story-Science-Reading/dp/0060933844)
 - [Just Kids - Patti Smith](https://www.amazon.com/Just-Kids-Patti-Smith/dp/0060936223)
@@ -50,6 +50,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Focus: The Hidden Driver of Excellence - Daniel Goleman](https://www.amazon.com/Focus-Hidden-Excellence-Daniel-Goleman-ebook/dp/B00BATG220)
 - [Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi](https://www.amazon.com/s/ref=nb_sb_ss_i_1_11?url=search-alias%3Ddigital-text&field-keywords=flow+mihaly+csikszentmihalyi&sprefix=flow+mihaly%2Cdigital-text%2C417&crid=315SFKWY6DGRI)
 - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/gp/product/0596007124/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=farenda-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0596007124&linkId=92778db451fcc7856872d6d562e82549)
+- [The Language Instinct - Steven Pinker](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 
 ## Finished
 - [A Mind at Play: How Claude Shannon Invented the Information Age - Jimmy Soni](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
