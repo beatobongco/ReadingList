@@ -4,10 +4,10 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
-- [Seeking Wisdom - Peter Bevelin](https://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283)
-- [Art of Learning - Josh Waitzkin](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
 - [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
+- [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
+- [Art of Learning - Josh Waitzkin](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
+- [Seeking Wisdom - Peter Bevelin (as review, read sources first)](https://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283)
 - [Essentialism - Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 - [The Power of Habit - Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) 
 - [Proust and the Squid - Maryanne Wolf](https://www.amazon.com/Proust-Squid-Story-Science-Reading/dp/0060933844)
