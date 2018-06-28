@@ -4,7 +4,9 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
+- [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
+- [Seeking Wisdom - Peter Bevelin](https://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283)
+- [Art of Learning - Josh Waitzkin](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
 - [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 - [Essentialism - Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 - [The Power of Habit - Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) 
@@ -41,7 +43,6 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [How I Raised Myself from Failure to Success in Selling - Frank Bettger](https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X)
 - [Eloquent Javascript - Marijn Haverbeke](http://eloquentjavascript.net/)
 - [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
-- [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
 - Check out Raymond Smullyan books on logic 
 - [The Hitchhiker's Guide to Python - Kenneth Reitz](https://www.amazon.com/Hitchhikers-Guide-Python-Practices-Development/dp/1491933178/ref=as_li_ss_tl?ie=UTF8&qid=1474504817&sr=8-1&keywords=the+hitchhiker%27s+guide+to+python&linkCode=sl1&tag=bookforkind-20&linkId=61f709db08f6c3016ed5390b215938ad)
 - [The Copywriter's Handbook: A Step-By-Step Guide To Writing Copy That Sells](https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing-ebook/dp/B003JH8MHO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
@@ -53,6 +54,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [The Language Instinct - Steven Pinker](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 
 ## Finished
+- [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 - [A Mind at Play: How Claude Shannon Invented the Information Age - Jimmy Soni](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
 - [Competing Against Luck - Clayton Christensen](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 - [Remote: Office Not Required - Jason Fried](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501)
