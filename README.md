@@ -4,7 +4,6 @@ A list of self-improvement, tech, design and climbing books I have read or want 
 I rate some of these books [here](https://beatobongco.com/book-highlights/).
 
 ## Priority "to read" list
-- [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 - [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.com/dp/0394745027)
 - [Art of Learning - Josh Waitzkin](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
 - [Seeking Wisdom - Peter Bevelin (as review, read sources first)](https://www.amazon.com/Seeking-Wisdom-Darwin-Munger-3rd/dp/1578644283)
@@ -54,6 +53,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [The Language Instinct - Steven Pinker](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 
 ## Finished
+- [Skin in the Game - Nassim Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 - [Peak: Secrets from the New Science of Expertise - Anders Ericcson](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 - [A Mind at Play: How Claude Shannon Invented the Information Age - Jimmy Soni](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
 - [Competing Against Luck - Clayton Christensen](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
