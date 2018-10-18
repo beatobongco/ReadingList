@@ -18,6 +18,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 ## To read list
 - [Economics in One Lesson - Hazlitt](https://www.amazon.com/Economics-One-Lesson-Shortest-Understand-ebook/dp/B003XT60KO)
 - [Thinking Strategically - Dixit and Nalebuff](https://www.amazon.com/dp/B002OJIBLU)
+- [Scarcity - Mullainathan](https://www.amazon.com/dp/B00BMKOO6S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Letters to a Young Scientist - Edward O. Wilson](https://www.amazon.com/Letters-Young-Scientist-Edward-Wilson/dp/0871403854/ref=as_li_ss_tl?ie=UTF8&qid=1520129168&sr=8-1&keywords=letters+to+a+young+scientist&linkCode=sl1&tag=mmeditations-20&linkId=984452b3a353f30f8f74e6f3a73c0037)
 - [The Black Swan - Nassim Taleb](https://www.amazon.com/Black-Swan-Improbable-Fragility-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?s=books&ie=UTF8&qid=1485608350&sr=1-1&keywords=black+swan)
 - [Mathematics: A Very Short Introduction - Timothy Gowers](https://www.amazon.com/Mathematics-Short-Introduction-Timothy-Gowers)
