@@ -16,6 +16,7 @@ I rate some of these books [here](https://beatobongco.com/book-highlights/).
 - [Founders at Work - Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
 
 ## To read list
+- [Making Learning Whole - David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719/ref=sr_1_1?ie=UTF8&qid=1505094653)
 - [Economics in One Lesson - Hazlitt](https://www.amazon.com/Economics-One-Lesson-Shortest-Understand-ebook/dp/B003XT60KO)
 - [Thinking Strategically - Dixit and Nalebuff](https://www.amazon.com/dp/B002OJIBLU)
 - [Scarcity - Mullainathan](https://www.amazon.com/dp/B00BMKOO6S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
